@@ -1,0 +1,5 @@
+baseURL: https://tan-furukawa.github.io/note/
+languageCode: en-us
+title: My New Hugo Site
+publishDir: docs
+theme: PaperMod
